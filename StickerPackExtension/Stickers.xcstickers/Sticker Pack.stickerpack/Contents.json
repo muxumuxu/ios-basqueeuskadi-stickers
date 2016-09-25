@@ -1,19 +1,13 @@
 {
   "stickers" : [
     {
-      "filename" : "bask-ko.sticker"
-    },
-    {
-      "filename" : "bask-eye.sticker"
+      "filename" : "bask-flag.sticker"
     },
     {
       "filename" : "bask-sticker-love.sticker"
     },
     {
-      "filename" : "bask-flag.sticker"
-    },
-    {
-      "filename" : "bask-frightened.sticker"
+      "filename" : "bask-bull.sticker"
     },
     {
       "filename" : "bask-muxu.sticker"
@@ -22,22 +16,28 @@
       "filename" : "bask.sticker"
     },
     {
+      "filename" : "bask-angry.sticker"
+    },
+    {
+      "filename" : "bask-cool.sticker"
+    },
+    {
       "filename" : "bask-love.sticker"
     },
     {
-      "filename" : "bask-bull.sticker"
+      "filename" : "bask-eye.sticker"
     },
     {
-      "filename" : "bask-angry.sticker"
+      "filename" : "bask-frightened.sticker"
+    },
+    {
+      "filename" : "bask-ko.sticker"
     },
     {
       "filename" : "bask-sad.sticker"
     },
     {
       "filename" : "bask-sleep.sticker"
-    },
-    {
-      "filename" : "bask-cool.sticker"
     }
   ],
   "info" : {
@@ -45,6 +45,6 @@
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "small"
   }
 }
