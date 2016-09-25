@@ -1,4 +1,45 @@
 {
+  "stickers" : [
+    {
+      "filename" : "bask-ko.sticker"
+    },
+    {
+      "filename" : "bask-eye.sticker"
+    },
+    {
+      "filename" : "bask-sticker-love.sticker"
+    },
+    {
+      "filename" : "bask-flag.sticker"
+    },
+    {
+      "filename" : "bask-frightened.sticker"
+    },
+    {
+      "filename" : "bask-muxu.sticker"
+    },
+    {
+      "filename" : "bask.sticker"
+    },
+    {
+      "filename" : "bask-love.sticker"
+    },
+    {
+      "filename" : "bask-bull.sticker"
+    },
+    {
+      "filename" : "bask-angry.sticker"
+    },
+    {
+      "filename" : "bask-sad.sticker"
+    },
+    {
+      "filename" : "bask-sleep.sticker"
+    },
+    {
+      "filename" : "bask-cool.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
