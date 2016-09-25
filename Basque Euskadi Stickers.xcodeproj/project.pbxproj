@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		582C60B41D980E9100825FF8 /* StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 582C60B31D980E9100825FF8 /* StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		582C60B41D980E9100825FF8 /* Basque Euskadi Stickers Extensions.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 582C60B31D980E9100825FF8 /* Basque Euskadi Stickers Extensions.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		582C60B81D980E9100825FF8 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 582C60B71D980E9100825FF8 /* Stickers.xcstickers */; };
 		582C60B91D980E9100825FF8 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 582C60B71D980E9100825FF8 /* Stickers.xcstickers */; };
 /* End PBXBuildFile section */
@@ -29,7 +29,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				582C60B41D980E9100825FF8 /* StickerPackExtension.appex in Embed App Extensions */,
+				582C60B41D980E9100825FF8 /* Basque Euskadi Stickers Extensions.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -37,8 +37,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		582C60AF1D980E9100825FF8 /* BasqueStickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BasqueStickers.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		582C60B31D980E9100825FF8 /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		582C60AF1D980E9100825FF8 /* Basque Euskadi Stickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Basque Euskadi Stickers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		582C60B31D980E9100825FF8 /* Basque Euskadi Stickers Extensions.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Basque Euskadi Stickers Extensions.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		582C60B71D980E9100825FF8 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,8 +54,8 @@
 		582C60B01D980E9100825FF8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				582C60AF1D980E9100825FF8 /* BasqueStickers.app */,
-				582C60B31D980E9100825FF8 /* StickerPackExtension.appex */,
+				582C60AF1D980E9100825FF8 /* Basque Euskadi Stickers.app */,
+				582C60B31D980E9100825FF8 /* Basque Euskadi Stickers Extensions.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -63,9 +63,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		582C60AE1D980E9100825FF8 /* BasqueStickers */ = {
+		582C60AE1D980E9100825FF8 /* Basque Euskadi Stickers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 582C60C01D980E9100825FF8 /* Build configuration list for PBXNativeTarget "BasqueStickers" */;
+			buildConfigurationList = 582C60C01D980E9100825FF8 /* Build configuration list for PBXNativeTarget "Basque Euskadi Stickers" */;
 			buildPhases = (
 				582C60AD1D980E9100825FF8 /* Resources */,
 				582C60BF1D980E9100825FF8 /* Embed App Extensions */,
@@ -75,14 +75,14 @@
 			dependencies = (
 				582C60B61D980E9100825FF8 /* PBXTargetDependency */,
 			);
-			name = BasqueStickers;
+			name = "Basque Euskadi Stickers";
 			productName = BasqueStickers;
-			productReference = 582C60AF1D980E9100825FF8 /* BasqueStickers.app */;
+			productReference = 582C60AF1D980E9100825FF8 /* Basque Euskadi Stickers.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
-		582C60B21D980E9100825FF8 /* StickerPackExtension */ = {
+		582C60B21D980E9100825FF8 /* Basque Euskadi Stickers Extensions */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 582C60BC1D980E9100825FF8 /* Build configuration list for PBXNativeTarget "StickerPackExtension" */;
+			buildConfigurationList = 582C60BC1D980E9100825FF8 /* Build configuration list for PBXNativeTarget "Basque Euskadi Stickers Extensions" */;
 			buildPhases = (
 				582C60B11D980E9100825FF8 /* Resources */,
 			);
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = StickerPackExtension;
+			name = "Basque Euskadi Stickers Extensions";
 			productName = StickerPackExtension;
-			productReference = 582C60B31D980E9100825FF8 /* StickerPackExtension.appex */;
+			productReference = 582C60B31D980E9100825FF8 /* Basque Euskadi Stickers Extensions.appex */;
 			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
 		};
 /* End PBXNativeTarget section */
@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 582C60AC1D980E9100825FF8 /* Build configuration list for PBXProject "BasqueStickers" */;
+			buildConfigurationList = 582C60AC1D980E9100825FF8 /* Build configuration list for PBXProject "Basque Euskadi Stickers" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -128,8 +128,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				582C60AE1D980E9100825FF8 /* BasqueStickers */,
-				582C60B21D980E9100825FF8 /* StickerPackExtension */,
+				582C60AE1D980E9100825FF8 /* Basque Euskadi Stickers */,
+				582C60B21D980E9100825FF8 /* Basque Euskadi Stickers Extensions */,
 			);
 		};
 /* End PBXProject section */
@@ -156,7 +156,7 @@
 /* Begin PBXTargetDependency section */
 		582C60B61D980E9100825FF8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 582C60B21D980E9100825FF8 /* StickerPackExtension */;
+			target = 582C60B21D980E9100825FF8 /* Basque Euskadi Stickers Extensions */;
 			targetProxy = 582C60B51D980E9100825FF8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -301,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		582C60AC1D980E9100825FF8 /* Build configuration list for PBXProject "BasqueStickers" */ = {
+		582C60AC1D980E9100825FF8 /* Build configuration list for PBXProject "Basque Euskadi Stickers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				582C60BA1D980E9100825FF8 /* Debug */,
@@ -310,7 +310,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		582C60BC1D980E9100825FF8 /* Build configuration list for PBXNativeTarget "StickerPackExtension" */ = {
+		582C60BC1D980E9100825FF8 /* Build configuration list for PBXNativeTarget "Basque Euskadi Stickers Extensions" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				582C60BD1D980E9100825FF8 /* Debug */,
@@ -318,7 +318,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		582C60C01D980E9100825FF8 /* Build configuration list for PBXNativeTarget "BasqueStickers" */ = {
+		582C60C01D980E9100825FF8 /* Build configuration list for PBXNativeTarget "Basque Euskadi Stickers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				582C60C11D980E9100825FF8 /* Debug */,
